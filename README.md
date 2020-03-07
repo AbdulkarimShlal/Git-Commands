@@ -1,13 +1,10 @@
 Git Commands
 ============
 
-_A list of my commonly used Git commands_
+Here is a list of my commonly used Git commands
 
 *If you are interested in my Git aliases, have a look at my `.bash_profile`, found here:
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
-https://github.com/joshnh/Git-Commands
-
---
 
 ### Getting & Creating Projects
 
