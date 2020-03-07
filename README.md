@@ -5,6 +5,7 @@ _A list of my commonly used Git commands_
 
 *If you are interested in my Git aliases, have a look at my `.bash_profile`, found here:
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+
 https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
 
 --
