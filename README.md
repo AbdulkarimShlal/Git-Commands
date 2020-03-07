@@ -1,7 +1,8 @@
 Git Commands
 ============
 
-Here is a list of my commonly used Git commands
+Here is a list of my commonly used Git commands:
+
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
 ### Getting & Creating Projects
